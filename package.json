@@ -1,0 +1,30 @@
+{
+  "name": "travellog",
+  "version": "1.0.0",
+  "description": "An app where you can post ur travel pictures and stories",
+  "main": "hellonode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevDuki/TravelLog.git"
+  },
+  "keywords": [
+    "Travel",
+    "Log",
+    "TravelLog",
+    "Post",
+    "pictures",
+    "travel"
+  ],
+  "author": "DevDuki, FabianHaef",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevDuki/TravelLog/issues"
+  },
+  "homepage": "https://github.com/DevDuki/TravelLog#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
